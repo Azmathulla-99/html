@@ -8,7 +8,7 @@
   <br>
   <p class="head">Name</p>
   <ul>
-    <li>Charan Sai</li>
+    <li>Azmathulla</li>
   
   </ul>
   <p class="head">Experience</p>
