@@ -21,7 +21,7 @@
       <li>webdevelopment</li>
     </a>
     
-      <li>Toll gate management system website</li>
+      <li>language translator</li>
     </a>
     <li>Codeacademy</li>
   </ul>
